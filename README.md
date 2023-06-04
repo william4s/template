@@ -1,5 +1,4 @@
-时微淳的算法竞赛模板
-主要有计算几何
+William Shi 's competitive programming template
 
 
 This is competive programming template.
